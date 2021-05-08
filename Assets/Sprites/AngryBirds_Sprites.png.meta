@@ -1,0 +1,4571 @@
+fileFormatVersion: 2
+guid: fc7abd46fde027c42a3b85b592ec22c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1944104448448538754
+    second: AngryBirds_Sprites_0
+  - first:
+      213: -2606987376525091145
+    second: AngryBirds_Sprites_1
+  - first:
+      213: 6693236537588005787
+    second: AngryBirds_Sprites_2
+  - first:
+      213: -9092670068824630818
+    second: AngryBirds_Sprites_3
+  - first:
+      213: -8109837355315825594
+    second: AngryBirds_Sprites_4
+  - first:
+      213: 7422623195576966603
+    second: AngryBirds_Sprites_5
+  - first:
+      213: -7753505999293007291
+    second: AngryBirds_Sprites_6
+  - first:
+      213: 1288600020303353932
+    second: AngryBirds_Sprites_7
+  - first:
+      213: -4594139272879852410
+    second: AngryBirds_Sprites_8
+  - first:
+      213: 2509865630187145924
+    second: AngryBirds_Sprites_9
+  - first:
+      213: -2619786223678362481
+    second: AngryBirds_Sprites_10
+  - first:
+      213: -242331359092306302
+    second: AngryBirds_Sprites_11
+  - first:
+      213: -8193768852061411839
+    second: AngryBirds_Sprites_12
+  - first:
+      213: -514861226004819057
+    second: AngryBirds_Sprites_13
+  - first:
+      213: 1128744466587210973
+    second: AngryBirds_Sprites_14
+  - first:
+      213: 5314526147138496660
+    second: AngryBirds_Sprites_15
+  - first:
+      213: -539562931378615586
+    second: AngryBirds_Sprites_16
+  - first:
+      213: 7771694355412752823
+    second: AngryBirds_Sprites_17
+  - first:
+      213: 3376945342968897740
+    second: AngryBirds_Sprites_18
+  - first:
+      213: -3601542002185391732
+    second: AngryBirds_Sprites_19
+  - first:
+      213: -8866895138876893116
+    second: AngryBirds_Sprites_20
+  - first:
+      213: -361404123608266937
+    second: AngryBirds_Sprites_21
+  - first:
+      213: -8859784446365950241
+    second: AngryBirds_Sprites_22
+  - first:
+      213: -551508108857379981
+    second: AngryBirds_Sprites_23
+  - first:
+      213: 6123877814036064117
+    second: AngryBirds_Sprites_24
+  - first:
+      213: 8084718092002817523
+    second: AngryBirds_Sprites_25
+  - first:
+      213: 2256797897553720492
+    second: AngryBirds_Sprites_26
+  - first:
+      213: 5227154821065407354
+    second: AngryBirds_Sprites_27
+  - first:
+      213: 5639130189901462386
+    second: AngryBirds_Sprites_28
+  - first:
+      213: 9054502473756914484
+    second: AngryBirds_Sprites_29
+  - first:
+      213: -4714171725073744142
+    second: AngryBirds_Sprites_30
+  - first:
+      213: -2438905267501461047
+    second: AngryBirds_Sprites_31
+  - first:
+      213: -3373043184217368728
+    second: AngryBirds_Sprites_32
+  - first:
+      213: -230454045434212264
+    second: AngryBirds_Sprites_33
+  - first:
+      213: 5102261137492775357
+    second: AngryBirds_Sprites_34
+  - first:
+      213: 5653286081174452543
+    second: AngryBirds_Sprites_35
+  - first:
+      213: -1544921083687610317
+    second: AngryBirds_Sprites_36
+  - first:
+      213: -6484382638911497079
+    second: AngryBirds_Sprites_37
+  - first:
+      213: -7979101669947274188
+    second: AngryBirds_Sprites_38
+  - first:
+      213: 811679229329643377
+    second: AngryBirds_Sprites_39
+  - first:
+      213: -4038364334990226198
+    second: AngryBirds_Sprites_40
+  - first:
+      213: 104934666152088036
+    second: AngryBirds_Sprites_41
+  - first:
+      213: 6605047980242521458
+    second: AngryBirds_Sprites_42
+  - first:
+      213: -9088472621701804648
+    second: AngryBirds_Sprites_43
+  - first:
+      213: -3007918865980675756
+    second: AngryBirds_Sprites_44
+  - first:
+      213: -2974758385946570180
+    second: AngryBirds_Sprites_45
+  - first:
+      213: 3707324930035184656
+    second: smoke_1
+  - first:
+      213: -5472104166597811043
+    second: AngryBirds_Sprites_47
+  - first:
+      213: -8904255628928417084
+    second: AngryBirds_Sprites_48
+  - first:
+      213: -4822987703341447797
+    second: AngryBirds_Sprites_49
+  - first:
+      213: -3504032933647637717
+    second: AngryBirds_Sprites_50
+  - first:
+      213: 8114643338802568781
+    second: AngryBirds_Sprites_51
+  - first:
+      213: -5333920065176378624
+    second: AngryBirds_Sprites_52
+  - first:
+      213: -8233570725197182688
+    second: AngryBirds_Sprites_53
+  - first:
+      213: 4952513838973161051
+    second: AngryBirds_Sprites_54
+  - first:
+      213: 6563081017076593491
+    second: AngryBirds_Sprites_55
+  - first:
+      213: -4658042880358356661
+    second: AngryBirds_Sprites_56
+  - first:
+      213: -1454103104212571020
+    second: AngryBirds_Sprites_57
+  - first:
+      213: 3659131394052025356
+    second: AngryBirds_Sprites_58
+  - first:
+      213: 8455150072276960197
+    second: AngryBirds_Sprites_59
+  - first:
+      213: -4600348896140132613
+    second: AngryBirds_Sprites_60
+  - first:
+      213: 8359040826108395988
+    second: AngryBirds_Sprites_61
+  - first:
+      213: 731607083114284736
+    second: smoke_2
+  - first:
+      213: -8416641016085789937
+    second: AngryBirds_Sprites_63
+  - first:
+      213: 3868495562526876017
+    second: AngryBirds_Sprites_64
+  - first:
+      213: 3439590873780536984
+    second: AngryBirds_Sprites_65
+  - first:
+      213: 484103707724441833
+    second: AngryBirds_Sprites_66
+  - first:
+      213: -6408018340629201259
+    second: AngryBirds_Sprites_67
+  - first:
+      213: -442457186182520490
+    second: AngryBirds_Sprites_68
+  - first:
+      213: 5021494055602108831
+    second: AngryBirds_Sprites_69
+  - first:
+      213: -7970724127006642571
+    second: AngryBirds_Sprites_70
+  - first:
+      213: 2015534544875108307
+    second: AngryBirds_Sprites_71
+  - first:
+      213: 3824687275625254267
+    second: AngryBirds_Sprites_72
+  - first:
+      213: -2263014454086434447
+    second: AngryBirds_Sprites_73
+  - first:
+      213: -8689738368150251872
+    second: AngryBirds_Sprites_74
+  - first:
+      213: -778214578992032095
+    second: AngryBirds_Sprites_75
+  - first:
+      213: -3049853358527433212
+    second: AngryBirds_Sprites_76
+  - first:
+      213: 452351074953476816
+    second: smoke_4
+  - first:
+      213: -3414867499814723621
+    second: AngryBirds_Sprites_78
+  - first:
+      213: 8216281865359391428
+    second: AngryBirds_Sprites_79
+  - first:
+      213: -2610122553974429702
+    second: AngryBirds_Sprites_80
+  - first:
+      213: 6893719207433947222
+    second: AngryBirds_Sprites_81
+  - first:
+      213: -3064064662248478882
+    second: AngryBirds_Sprites_82
+  - first:
+      213: -5562177936655320452
+    second: AngryBirds_Sprites_83
+  - first:
+      213: 1511654368400333799
+    second: AngryBirds_Sprites_84
+  - first:
+      213: 5550781373854863853
+    second: AngryBirds_Sprites_85
+  - first:
+      213: 1759286045634082269
+    second: AngryBirds_Sprites_86
+  - first:
+      213: -815737189803025552
+    second: AngryBirds_Sprites_87
+  - first:
+      213: -6532469802520551628
+    second: AngryBirds_Sprites_88
+  - first:
+      213: 8918844749771905027
+    second: AngryBirds_Sprites_89
+  - first:
+      213: -9146811016977827661
+    second: AngryBirds_Sprites_90
+  - first:
+      213: -4676832693750297422
+    second: AngryBirds_Sprites_91
+  - first:
+      213: -3754593014250970454
+    second: AngryBirds_Sprites_92
+  - first:
+      213: -1658889894378321119
+    second: AngryBirds_Sprites_93
+  - first:
+      213: 2168405260550639755
+    second: AngryBirds_Sprites_94
+  - first:
+      213: -7972495570651992299
+    second: AngryBirds_Sprites_95
+  - first:
+      213: -5182111748912023901
+    second: AngryBirds_Sprites_96
+  - first:
+      213: -4595165438843070499
+    second: AngryBirds_Sprites_97
+  - first:
+      213: 7649856763397484588
+    second: AngryBirds_Sprites_98
+  - first:
+      213: 7457418119977057657
+    second: AngryBirds_Sprites_99
+  - first:
+      213: -4234230841371459888
+    second: smoke_3
+  - first:
+      213: -7675909771829224518
+    second: AngryBirds_Sprites_101
+  - first:
+      213: -957329148717904692
+    second: AngryBirds_Sprites_102
+  - first:
+      213: -8388902247094736254
+    second: AngryBirds_Sprites_103
+  - first:
+      213: -534476769751754355
+    second: AngryBirds_Sprites_104
+  - first:
+      213: 3014549944884679413
+    second: AngryBirds_Sprites_105
+  - first:
+      213: 8593976667585410895
+    second: AngryBirds_Sprites_106
+  - first:
+      213: -5430982128922765804
+    second: AngryBirds_Sprites_107
+  - first:
+      213: -6206157126089955316
+    second: AngryBirds_Sprites_108
+  - first:
+      213: 4323006362068877526
+    second: AngryBirds_Sprites_109
+  - first:
+      213: 8718382191867939013
+    second: AngryBirds_Sprites_110
+  - first:
+      213: 7538192669722372784
+    second: AngryBirds_Sprites_111
+  - first:
+      213: 5940456474977264259
+    second: AngryBirds_Sprites_112
+  - first:
+      213: -1727961525117766744
+    second: AngryBirds_Sprites_113
+  - first:
+      213: -3720416323560883039
+    second: AngryBirds_Sprites_114
+  - first:
+      213: 771685006126668874
+    second: AngryBirds_Sprites_115
+  - first:
+      213: 2713630458458233967
+    second: AngryBirds_Sprites_116
+  - first:
+      213: 2899869694106612666
+    second: AngryBirds_Sprites_117
+  - first:
+      213: 1423936268623755935
+    second: AngryBirds_Sprites_118
+  - first:
+      213: 7197988696648473659
+    second: AngryBirds_Sprites_119
+  - first:
+      213: 6601337567161817968
+    second: AngryBirds_Sprites_120
+  - first:
+      213: -6829285868097154001
+    second: AngryBirds_Sprites_121
+  - first:
+      213: -5589388147389311320
+    second: AngryBirds_Sprites_122
+  - first:
+      213: 8520714483333040314
+    second: AngryBirds_Sprites_123
+  - first:
+      213: -4176230744389343882
+    second: AngryBirds_Sprites_124
+  - first:
+      213: 6414539752664306891
+    second: AngryBirds_Sprites_125
+  - first:
+      213: -1662825729015618601
+    second: AngryBirds_Sprites_126
+  - first:
+      213: 7735402080271918608
+    second: AngryBirds_Sprites_127
+  - first:
+      213: -2814338068427502692
+    second: AngryBirds_Sprites_128
+  - first:
+      213: -3812704901799526875
+    second: AngryBirds_Sprites_129
+  - first:
+      213: 7716927078760122324
+    second: AngryBirds_Sprites_130
+  - first:
+      213: -1592744396168241161
+    second: AngryBirds_Sprites_131
+  - first:
+      213: -7317232920951996438
+    second: AngryBirds_Sprites_132
+  - first:
+      213: 8571279642551263187
+    second: AngryBirds_Sprites_133
+  - first:
+      213: 881322414526147708
+    second: AngryBirds_Sprites_134
+  - first:
+      213: -3680738268064803839
+    second: AngryBirds_Sprites_135
+  - first:
+      213: -7673723367034216937
+    second: AngryBirds_Sprites_136
+  - first:
+      213: -2347516065988882121
+    second: AngryBirds_Sprites_137
+  - first:
+      213: -7182156087902854246
+    second: AngryBirds_Sprites_138
+  - first:
+      213: -194649760764652425
+    second: AngryBirds_Sprites_139
+  - first:
+      213: 4423605358504903420
+    second: AngryBirds_Sprites_140
+  - first:
+      213: 2387019948160378864
+    second: AngryBirds_Sprites_141
+  - first:
+      213: -4782333716129062113
+    second: AngryBirds_Sprites_142
+  - first:
+      213: -5197953700315963365
+    second: AngryBirds_Sprites_143
+  - first:
+      213: -5912859969229829347
+    second: AngryBirds_Sprites_144
+  - first:
+      213: 7111441405686304558
+    second: AngryBirds_Sprites_145
+  - first:
+      213: 1690351837218001743
+    second: AngryBirds_Sprites_146
+  - first:
+      213: 464513805492030325
+    second: AngryBirds_Sprites_147
+  - first:
+      213: 9213159923196844417
+    second: AngryBirds_Sprites_148
+  - first:
+      213: 1313065526770291891
+    second: AngryBirds_Sprites_149
+  - first:
+      213: -7886433918488127955
+    second: AngryBirds_Sprites_150
+  - first:
+      213: 7919873095542420149
+    second: AngryBirds_Sprites_151
+  - first:
+      213: 376409754384781919
+    second: AngryBirds_Sprites_152
+  - first:
+      213: 1365596395239785349
+    second: AngryBirds_Sprites_153
+  - first:
+      213: -3826513443332795128
+    second: AngryBirds_Sprites_154
+  - first:
+      213: 4929481140956428572
+    second: AngryBirds_Sprites_155
+  - first:
+      213: -1463601734407396951
+    second: AngryBirds_Sprites_156
+  - first:
+      213: 8825746249447750185
+    second: AngryBirds_Sprites_157
+  - first:
+      213: -6730195533392675127
+    second: AngryBirds_Sprites_158
+  - first:
+      213: -230303739061350159
+    second: AngryBirds_Sprites_159
+  - first:
+      213: 7104161450025868199
+    second: AngryBirds_Sprites_160
+  - first:
+      213: -1751419807840536886
+    second: AngryBirds_Sprites_161
+  - first:
+      213: 4476611074382857461
+    second: AngryBirds_Sprites_162
+  - first:
+      213: 4430336273377516408
+    second: AngryBirds_Sprites_163
+  - first:
+      213: 2526550729440099701
+    second: AngryBirds_Sprites_164
+  - first:
+      213: -7235990674319296508
+    second: AngryBirds_Sprites_165
+  - first:
+      213: 3086599319916667085
+    second: AngryBirds_Sprites_166
+  - first:
+      213: -682711980701805129
+    second: AngryBirds_Sprites_167
+  - first:
+      213: -1592039812306026498
+    second: AngryBirds_Sprites_168
+  - first:
+      213: 1277013725663161274
+    second: AngryBirds_Sprites_169
+  - first:
+      213: -6609894399937466394
+    second: AngryBirds_Sprites_170
+  - first:
+      213: -8422157957178571833
+    second: AngryBirds_Sprites_171
+  - first:
+      213: 1551904722797008328
+    second: AngryBirds_Sprites_172
+  - first:
+      213: -353358636709353043
+    second: AngryBirds_Sprites_173
+  - first:
+      213: -431112306911158600
+    second: AngryBirds_Sprites_174
+  - first:
+      213: 1400185835482208704
+    second: AngryBirds_Sprites_175
+  - first:
+      213: 1452758467160345343
+    second: AngryBirds_Sprites_176
+  - first:
+      213: 5904853452614188577
+    second: AngryBirds_Sprites_177
+  - first:
+      213: 4349013661696093492
+    second: AngryBirds_Sprites_178
+  - first:
+      213: -8885573869436403011
+    second: AngryBirds_Sprites_179
+  - first:
+      213: -2944029906221929894
+    second: AngryBirds_Sprites_180
+  - first:
+      213: -9218040183076043127
+    second: AngryBirds_Sprites_181
+  - first:
+      213: 8641912663411406419
+    second: AngryBirds_Sprites_182
+  - first:
+      213: -9191998297159616552
+    second: AngryBirds_Sprites_183
+  - first:
+      213: -2545421849724767074
+    second: AngryBirds_Sprites_184
+  - first:
+      213: -3394839711448627082
+    second: AngryBirds_Sprites_185
+  - first:
+      213: 863426907063432242
+    second: AngryBirds_Sprites_186
+  - first:
+      213: -5839665305371440164
+    second: AngryBirds_Sprites_187
+  - first:
+      213: -2928932035887329543
+    second: AngryBirds_Sprites_188
+  - first:
+      213: -5377082495348192898
+    second: AngryBirds_Sprites_189
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 768
+        width: 38
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77d7ffed472505e0800000000000000
+      internalID: -1944104448448538754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 814
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be5b402bce12dbd0800000000000000
+      internalID: -2606987376525091145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 814
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b399c2b2723ec50800000000000000
+      internalID: 6693236537588005787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 814
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed991e75fb850d180800000000000000
+      internalID: -9092670068824630818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 814
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644f432a4e1147f80800000000000000
+      internalID: -8109837355315825594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 951
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd90f93874720760800000000000000
+      internalID: 7422623195576966603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 917
+        width: 110
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ab74c9f53066490800000000000000
+      internalID: -7753505999293007291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 843
+        width: 43
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c481eb324e602e110800000000000000
+      internalID: 1288600020303353932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 920
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684335f0ca65e30c0800000000000000
+      internalID: -4594139272879852410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 928
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca44492e75d4d220800000000000000
+      internalID: 2509865630187145924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 659
+        width: 326
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c603e4f46a4abd0800000000000000
+      internalID: -2619786223678362481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 955
+        width: 118
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e8d5fa9e013acf0800000000000000
+      internalID: -242331359092306302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 957
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106283934a2e94e80800000000000000
+      internalID: -8193768852061411839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 963
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f835c5b5178dad8f0800000000000000
+      internalID: -514861226004819057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 947
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd45e1dac1b1aaf00800000000000000
+      internalID: 1128744466587210973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 913
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49827bd8f5df0c940800000000000000
+      internalID: 5314526147138496660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 959
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda85356f561388f0800000000000000
+      internalID: -539562931378615586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 943
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9194d07da9adb60800000000000000
+      internalID: 7771694355412752823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 939
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc02299c5e15dde20800000000000000
+      internalID: 3376945342968897740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 876
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81371c71a0c40ec0800000000000000
+      internalID: -3601542002185391732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 890
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448da9a99d572f480800000000000000
+      internalID: -8866895138876893116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 872
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747c7f74dd80cfaf0800000000000000
+      internalID: -361404123608266937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 838
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde93d7bcf8bb0580800000000000000
+      internalID: -8859784446365950241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 877
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373fec80c46a858f0800000000000000
+      internalID: -551508108857379981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 844
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577e3891d626cf450800000000000000
+      internalID: 6123877814036064117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 887
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5700f1540b23070800000000000000
+      internalID: 8084718092002817523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 899
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4b9851bb1c15f10800000000000000
+      internalID: 2256797897553720492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 884
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bf2977d959a8840800000000000000
+      internalID: 5227154821065407354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 844
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bf143c707324e40800000000000000
+      internalID: 5639130189901462386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 830
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4333d2ee60e08ad70800000000000000
+      internalID: 9054502473756914484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 846
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fef9c4fac5e39eb0800000000000000
+      internalID: -4714171725073744142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 852
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c11fb1c494472ed0800000000000000
+      internalID: -2438905267501461047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 843
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867dba8581b8031d0800000000000000
+      internalID: -3373043184217368728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 816
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85097d444434dccf0800000000000000
+      internalID: -230454045434212264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 659
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1998bb87fdec640800000000000000
+      internalID: 5102261137492775357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 712
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c58fb7858d206a0800000000000000
+      internalID: -6484382638911497079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 713
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c01186e49844190800000000000000
+      internalID: -7979101669947274188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 713
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17791c765f9a34b00800000000000000
+      internalID: 811679229329643377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 714
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec0d439809d4f7c0800000000000000
+      internalID: -4038364334990226198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 715
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e19e9cd58dc47100800000000000000
+      internalID: 104934666152088036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 715
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d44ca9428d9ab50800000000000000
+      internalID: 6605047980242521458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 718
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dc998ad424fd180800000000000000
+      internalID: -9088472621701804648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 731
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459a6006ab9b146d0800000000000000
+      internalID: -3007918865980675756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 733
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c325a09420987b6d0800000000000000
+      internalID: -2974758385946570180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 691
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01472b1b160137330800000000000000
+      internalID: 3707324930035184656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 695
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c20378aeaabd6480800000000000000
+      internalID: -8904255628928417084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 705
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b858142bc3e411db0800000000000000
+      internalID: -4822987703341447797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 613
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00365d606fb1af5b0800000000000000
+      internalID: -5333920065176378624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 617
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029019b7c0b7cbd80800000000000000
+      internalID: -8233570725197182688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 617
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e8335d81ddab440800000000000000
+      internalID: 4952513838973161051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 617
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353b5fe896fb41b50800000000000000
+      internalID: 6563081017076593491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 617
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49e3bffdae4b5fb0800000000000000
+      internalID: -4658042880358356661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 617
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ced9e4eecf1dbe0800000000000000
+      internalID: -1454103104212571020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 617
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c63f0bd98d7c230800000000000000
+      internalID: 3659131394052025356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 660
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3cfa4813ab65570800000000000000
+      internalID: 8455150072276960197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 660
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfef4ba7d074820c0800000000000000
+      internalID: -4600348896140132613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 660
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1cd2fd757410470800000000000000
+      internalID: 8359040826108395988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 569
+        width: 125
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6cf2014c0372a00800000000000000
+      internalID: 731607083114284736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 683
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f034932d695123b80800000000000000
+      internalID: -8416641016085789937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 680
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171e69bc738afa530800000000000000
+      internalID: 3868495562526876017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 672
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8964d5c0da1ebbf20800000000000000
+      internalID: 3439590873780536984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 667
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e86d5dd1c1e7b600800000000000000
+      internalID: 484103707724441833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 625
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ebb9435452217a0800000000000000
+      internalID: -6408018340629201259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 628
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651a54d88831cd9f0800000000000000
+      internalID: -442457186182520490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 628
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9936e11d3eefa540800000000000000
+      internalID: 5021494055602108831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 504
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e222f13ac426190800000000000000
+      internalID: -7970724127006642571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 503
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d73fc36dfd98fb10800000000000000
+      internalID: 2015534544875108307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 591
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d899820d4041530800000000000000
+      internalID: 3824687275625254267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 514
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1718a9e08582890e0800000000000000
+      internalID: -2263014454086434447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 522
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6525f8ef8d76780800000000000000
+      internalID: -8689738368150251872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 524
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6562ca6f93335f0800000000000000
+      internalID: -778214578992032095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 525
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406b0fb778ebca5d0800000000000000
+      internalID: -3049853358527433212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_4
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 525
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da3e50f7e2174600800000000000000
+      internalID: 452351074953476816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 531
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf54860a14fb90d0800000000000000
+      internalID: -3414867499814723621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 531
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cafa3723d8160270800000000000000
+      internalID: 8216281865359391428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 531
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af76e1ebd5bf6cbd0800000000000000
+      internalID: -2610122553974429702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 559
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658436c38196baf50800000000000000
+      internalID: 6893719207433947222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 456
+        width: 115
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e572add7c614a75d0800000000000000
+      internalID: -3064064662248478882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 527
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7af424e2ac2fc2b0800000000000000
+      internalID: -5562177936655320452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 495
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb5ba393a97af410800000000000000
+      internalID: 1511654368400333799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 495
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1597e0046580d40800000000000000
+      internalID: 5550781373854863853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 500
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd53250665d3a6810800000000000000
+      internalID: 1759286045634082269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 349
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b17bb095beda4f0800000000000000
+      internalID: -815737189803025552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 415
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fdbca33510855a0800000000000000
+      internalID: -6532469802520551628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 427
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308130dbb0a16cb70800000000000000
+      internalID: 8918844749771905027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 439
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8386987dfff0180800000000000000
+      internalID: -9146811016977827661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 441
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc8417a17d881fb0800000000000000
+      internalID: -4676832693750297422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 441
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa26865db8105ebc0800000000000000
+      internalID: -3754593014250970454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 441
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b48142e607af8e0800000000000000
+      internalID: -1658889894378321119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 441
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8095348819b71e10800000000000000
+      internalID: 2168405260550639755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 443
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fa9e1c4810c5190800000000000000
+      internalID: -7972495570651992299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 445
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a678b302d07518b0800000000000000
+      internalID: -5182111748912023901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 463
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd75b9d2161ba30c0800000000000000
+      internalID: -4595165438843070499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 465
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c203de41230c92a60800000000000000
+      internalID: 7649856763397484588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 432
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d3bced4421e7760800000000000000
+      internalID: 7457418119977057657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 344
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0defc03db7dfc35c0800000000000000
+      internalID: -4234230841371459888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 354
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb5b223bb0b97590800000000000000
+      internalID: -7675909771829224518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 362
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccca8d1632e6b2f0800000000000000
+      internalID: -957329148717904692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 365
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a21724ad1a49b80800000000000000
+      internalID: -8388902247094736254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 365
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d899f3ea5382598f0800000000000000
+      internalID: -534476769751754355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 367
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2568ef335d5d920800000000000000
+      internalID: 3014549944884679413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 367
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f477c6f0f30f34770800000000000000
+      internalID: 8593976667585410895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 401
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4165010478641a4b0800000000000000
+      internalID: -5430982128922765804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 316
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c082627b9fc4fd9a0800000000000000
+      internalID: -6206157126089955316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 332
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d08edcc1676efb30800000000000000
+      internalID: 4323006362068877526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 371
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8416a596aedf870800000000000000
+      internalID: 8718382191867939013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 343
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba61474b4a0d9860800000000000000
+      internalID: 7538192669722372784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 344
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38260baa0bdb07250800000000000000
+      internalID: 5940456474977264259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 194
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a330d5e52c0508e0800000000000000
+      internalID: -1727961525117766744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 269
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acb699b01d6e5cc0800000000000000
+      internalID: -3720416323560883039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 283
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cdcacac6395ba00800000000000000
+      internalID: 771685006126668874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 291
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c55184680c8a520800000000000000
+      internalID: 2713630458458233967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 291
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab335246f186e3820800000000000000
+      internalID: 2899869694106612666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 292
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a3d12fd76d2c310800000000000000
+      internalID: 1423936268623755935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 316
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c5201459464e360800000000000000
+      internalID: 7197988696648473659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_120
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 316
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b1f1dba89ac9b50800000000000000
+      internalID: 6601337567161817968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 316
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f245972afa08931a0800000000000000
+      internalID: -6829285868097154001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 242
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6d41308118e62b0800000000000000
+      internalID: -5589388147389311320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 245
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8879b8da8af3670800000000000000
+      internalID: 8520714483333040314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 290
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675ab9cb34c0b06c0800000000000000
+      internalID: -4176230744389343882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 292
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc49d2b5be5050950800000000000000
+      internalID: 6414539752664306891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 218
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3e4aa3fc47ce8e0800000000000000
+      internalID: -1662825729015618601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_127
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 264
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016ec65453ba95b60800000000000000
+      internalID: 7735402080271918608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 269
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b0581107671f8d0800000000000000
+      internalID: -2814338068427502692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 207
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e39d6a71d861bc0800000000000000
+      internalID: -3812704901799526875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 218
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d70717ca48081b60800000000000000
+      internalID: 7716927078760122324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_131
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 226
+        width: 135
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffd560196f65e9e0800000000000000
+      internalID: -1592744396168241161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_132
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 227
+        width: 135
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefbcdf3d67f37a90800000000000000
+      internalID: -7317232920951996438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_133
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df1ecc1c6d43f670800000000000000
+      internalID: 8571279642551263187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_134
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 244
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cab6a01161b3c00800000000000000
+      internalID: 881322414526147708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_135
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 184
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1049fcceb046becc0800000000000000
+      internalID: -3680738268064803839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_136
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 219
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e9f4b3145718590800000000000000
+      internalID: -7673723367034216937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_137
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 220
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731d53e5392fb6fd0800000000000000
+      internalID: -2347516065988882121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_138
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 140
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93242b371bd35c90800000000000000
+      internalID: -7182156087902854246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_139
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 162
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774120ae2177c4df0800000000000000
+      internalID: -194649760764652425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_140
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 170
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf20334e2adc36d30800000000000000
+      internalID: 4423605358504903420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_141
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 171
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7eed1fef5602120800000000000000
+      internalID: 2387019948160378864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_142
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 172
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13e0c4b2dcb1adb0800000000000000
+      internalID: -4782333716129062113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_143
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 178
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b106db546a82dd7b0800000000000000
+      internalID: -5197953700315963365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_144
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 179
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bcd678f2d41fda0800000000000000
+      internalID: -5912859969229829347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_145
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 202
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fcfeac74ae0b260800000000000000
+      internalID: 7111441405686304558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_146
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 203
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43dec24a06557710800000000000000
+      internalID: 1690351837218001743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_147
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 121
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b0e9158d8427600800000000000000
+      internalID: 464513805492030325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_148
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 131
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18953010328bbdf70800000000000000
+      internalID: 9213159923196844417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_149
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 151
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b454f1c322f83210800000000000000
+      internalID: 1313065526770291891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_150
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 186
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d265cef9222cd8290800000000000000
+      internalID: -7886433918488127955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_151
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 187
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2bafd7e9a09ed60800000000000000
+      internalID: 7919873095542420149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_152
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 39
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52d8146da6493500800000000000000
+      internalID: 376409754384781919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_153
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 171
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58342dcafa293f210800000000000000
+      internalID: 1365596395239785349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_154
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 172
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80554e90c4e75eac0800000000000000
+      internalID: -3826513443332795128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_155
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 99
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19f1bdeaf8096440800000000000000
+      internalID: 4929481140956428572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_156
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 158
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a160002afd30bbe0800000000000000
+      internalID: -1463601734407396951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_157
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 158
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ab11cf3795b7a70800000000000000
+      internalID: 8825746249447750185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_158
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 79
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce753b02da8992a0800000000000000
+      internalID: -6730195533392675127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_159
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 114
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0ddc238fbcdccf0800000000000000
+      internalID: -230303739061350159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_160
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 123
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abd0d7033d079260800000000000000
+      internalID: 7104161450025868199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_161
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 125
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6f415d6f4b1b7e0800000000000000
+      internalID: -1751419807840536886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_162
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 125
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f48b26dd0e102e30800000000000000
+      internalID: 4476611074382857461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_163
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 125
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bd1322e57bb7d30800000000000000
+      internalID: 4430336273377516408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_164
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 126
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57df74f808c101320800000000000000
+      internalID: 2526550729440099701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_165
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408b823d1d8949b90800000000000000
+      internalID: -7235990674319296508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_166
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 146
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0689b5abdc5da20800000000000000
+      internalID: 3086599319916667085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_167
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 147
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b59d5a12158686f0800000000000000
+      internalID: -682711980701805129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_168
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 91
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff3837c930f7e9e0800000000000000
+      internalID: -1592039812306026498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_169
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 134
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb6373b73dd8b110800000000000000
+      internalID: 1277013725663161274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_170
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 37
+        width: 109
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef22e06010f444a0800000000000000
+      internalID: -6609894399937466394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_171
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c34420e5fb7e1b80800000000000000
+      internalID: -8422157957178571833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_172
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 55
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5119f7f19798510800000000000000
+      internalID: 1551904722797008328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_173
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da96f9c213e981bf0800000000000000
+      internalID: -353358636709353043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_174
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 114
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bed24814a1640af0800000000000000
+      internalID: -431112306911158600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_175
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 26
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9537f49957e6310800000000000000
+      internalID: 1400185835482208704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_176
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 75
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa888bf02c392410800000000000000
+      internalID: 1452758467160345343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_177
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 78
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ebecd0ee042f150800000000000000
+      internalID: 5904853452614188577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_178
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 79
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d67bc12ecca5c30800000000000000
+      internalID: 4349013661696093492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_179
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 81
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db200ceb4a910b480800000000000000
+      internalID: -8885573869436403011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_180
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ae38ff564b427d0800000000000000
+      internalID: -2944029906221929894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_181
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 14
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986c972fa41f21080800000000000000
+      internalID: -9218040183076043127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_182
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 35
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3563692d7cd3ee770800000000000000
+      internalID: 8641912663411406419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_183
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 66
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d73ec100467f6080800000000000000
+      internalID: -9191998297159616552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_184
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 27
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9433ab5058dcacd0800000000000000
+      internalID: -2545421849724767074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_185
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 31
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67807b1e44b13e0d0800000000000000
+      internalID: -3394839711448627082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_186
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 35
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234b70582328bfb00800000000000000
+      internalID: 863426907063432242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_187
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 42
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb892a385755fea0800000000000000
+      internalID: -5839665305371440164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_188
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe8cadd4d75a57d0800000000000000
+      internalID: -2928932035887329543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngryBirds_Sprites_189
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 18
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79ccc0a5f3c065b0800000000000000
+      internalID: -5377082495348192898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6e43e33bffa3fc54283143461029707a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
