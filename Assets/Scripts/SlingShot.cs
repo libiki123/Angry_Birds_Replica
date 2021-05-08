@@ -26,9 +26,9 @@ public class SlingShot : MonoBehaviour
     void Start()
     {
         CreateBird();
-        lineRenderers[0].positionCount = 2;
+        lineRenderers[0].positionCount = 2;                                     // each lineRenderer have 2 point
         lineRenderers[1].positionCount = 2;
-        lineRenderers[0].SetPosition(0, stripPositions[0].position);
+        lineRenderers[0].SetPosition(0, stripPositions[0].position);            // link LR pos to the strip pos
         lineRenderers[1].SetPosition(0, stripPositions[1].position);
     }
 
@@ -41,7 +41,7 @@ public class SlingShot : MonoBehaviour
             mousePos.z = 10;
             currentPos = Camera.main.ScreenToWorldPoint(mousePos);
             currentPos = center.position + Vector3.ClampMagnitude(currentPos - center.position, maxLength);         // clamp the max length slingshot can screcth
-            currentPos = ClampBoundary(currentPos);
+            currentPos = ClampBoundary(currentPos);                                                                 // clmap the pos to not pass bottomBoundray
 
             SetStrips(currentPos);
 
@@ -52,7 +52,7 @@ public class SlingShot : MonoBehaviour
 		}
 		else
 		{
-            ResetStrips();
+            ResetStrips();      // keep the strip at idle pos
 		}
     }
 
@@ -60,7 +60,7 @@ public class SlingShot : MonoBehaviour
 	{
         birdRb = Instantiate(birdPrefab).GetComponent<Rigidbody2D>();
         birdColl = birdRb.GetComponent<Collider2D>();
-        birdColl.enabled = false;                                           // stop bird from collide with the slingshot
+        birdColl.enabled = false;                                           // stop bird from collide with the slingshot when instantiate
         
     }
 
@@ -87,12 +87,12 @@ public class SlingShot : MonoBehaviour
 	private void Shoot()
 	{
         
-        Vector3 birdForce = (currentPos - center.position) * force * -1;
+        Vector3 birdForce = (currentPos - center.position) * force * -1;            // add force direct toward center pos
         birdRb.velocity = birdForce;
 
         birdRb = null;
         birdColl = null;
-        Invoke("CreateBird", 2);
+        Invoke("CreateBird", 2);                                                    // reset and create new bird
 
 	}
 
@@ -110,8 +110,8 @@ public class SlingShot : MonoBehaviour
 		if (birdRb)
 		{
             Vector3 dir = pos - center.position;
-            birdRb.transform.position = pos + dir.normalized * birdPosOffset;
-            birdRb.transform.right = -dir.normalized;
+            birdRb.transform.position = pos + dir.normalized * birdPosOffset;           // keep the bird pos base on the offset
+            birdRb.transform.right = -dir.normalized;                                   // keep the bird to alway face the center
         }
 	}
 }
